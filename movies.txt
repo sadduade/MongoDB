@@ -1,0 +1,121 @@
+[
+  {
+    "title": "The Thing",
+    "director": "John Carpenter",
+    "year": 1982,
+    "genres": ["Horror", "Sci-Fi"],
+    "rating": 8.1
+  },
+  {
+    "title": "Big Trouble in Little China",
+    "director": "John Carpenter",
+    "year": 1986,
+    "genres": ["Action", "Adventure"],
+    "rating": 7.3
+  },
+  {
+    "title": "Donnie Darko",
+    "director": "Richard Kelly",
+    "year": 2001,
+    "genres": ["Drama", "Sci-Fi", "Thriller"],
+    "rating": 8.0
+  },
+  {
+    "title": "Office Space",
+    "director": "Mike Judge",
+    "year": 1999,
+    "genres": ["Comedy"],
+    "rating": 7.7
+  },
+  {
+    "title": "The Iron Giant",
+    "director": "Brad Bird",
+    "year": 1999,
+    "genres": ["Animation", "Action", "Adventure"],
+    "rating": 8.0
+  },
+  {
+    "title": "Dredd",
+    "director": "Pete Travis",
+    "year": 2012,
+    "genres": ["Action", "Crime", "Sci-Fi"],
+    "rating": 7.1
+  },
+  {
+    "title": "Moon",
+    "director": "Duncan Jones",
+    "year": 2009,
+    "genres": ["Drama", "Mystery", "Sci-Fi"],
+    "rating": 7.9
+  },
+  {
+    "title": "Grosse Pointe Blank",
+    "director": "George Armitage",
+    "year": 1997,
+    "genres": ["Action", "Comedy", "Crime"],
+    "rating": 7.3
+  },
+  {
+    "title": "Dark City",
+    "director": "Alex Proyas",
+    "year": 1998,
+    "genres": ["Mystery"],
+    "rating": 7.3
+  },
+  {
+        "title": "The Shining",
+        "director": "Stanley Kubrick",
+        "year": 1980,
+        "genres": ["Horror", "Drama"],
+        "rating": 8.4
+  },
+  {
+        "title": "Blade Runner",
+        "director": "Ridley Scott",
+        "year": 1982,
+        "genres": ["Sci-Fi", "Drama"],
+        "rating": 8.2
+  },
+  {
+        "title": "Amadeus",
+        "director": "Miloš Forman",
+        "year": 1984,
+        "genres": ["Biography", "Drama", "Music"],
+        "rating": 8.3
+  },
+  {
+        "title": "Back to the Future",
+        "director": "Robert Zemeckis",
+        "year": 1985,
+        "genres": ["Adventure", "Comedy", "Sci-Fi"],
+        "rating": 8.5
+  },
+  {
+        "title": "Full Metal Jacket",
+        "director": "Stanley Kubrick",
+        "year": 1987,
+        "genres": ["Drama", "War"],
+        "rating": 8.3
+  },
+  {
+        "title": "Die Hard",
+        "director": "John McTiernan",
+        "year": 1988,
+        "genres": ["Action", "Thriller"],
+        "rating": 8.2
+  },
+  {
+        "title": "The Silence of the Lambs",
+        "director": "Jonathan Demme",
+        "year": 1991,
+        "genres": ["Thriller", "Crime", "Drama"],
+        "rating": 8.6
+  },
+  {
+        "title": "Schindler's List",
+        "director": "Steven Spielberg",
+        "year": 1993,
+        "genres": ["Biography", "Drama", "History"],
+        "rating": 8.9
+   }
+]
